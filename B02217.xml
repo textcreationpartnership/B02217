@@ -1,0 +1,276 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of our English wool, and the manufacture thereof truly stated. Together with some of the causes of the low price of the one, and decaying condition of the other. As also the presentment of the grand jury of the county of Sommerset thereon. / Humbly offered to the High Court of Parliament.</title>
+            <author>Clarke, George, fl. 1677-1685.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02217</idno>
+            <idno type="STC">Wing C4444A</idno>
+            <idno type="STC">ESTC R233248</idno>
+            <idno type="EEBO-CITATION">47012349</idno>
+            <idno type="OCLC">ocm 47012349</idno>
+            <idno type="VID">174316</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02217)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174316)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2683:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of our English wool, and the manufacture thereof truly stated. Together with some of the causes of the low price of the one, and decaying condition of the other. As also the presentment of the grand jury of the county of Sommerset thereon. / Humbly offered to the High Court of Parliament.</title>
+                  <author>Clarke, George, fl. 1677-1685.</author>
+                  <author>Clarke, George, fl. 1677-1685. Treatise of wool and cattel.</author>
+                  <author>England and Wales. Parliament.</author>
+                  <author>England and Wales. Court of Quarter Sessions of the Peace (Somerset). Presentment of the grand jury. 1685.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1685?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date and place of publication suggested by Wing (2nd ed.).</note>
+                  <note>Caption title.</note>
+                  <note>Page 2 signed: Geo. Clark.</note>
+                  <note>Reproduction of original in: Columbia University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Wool industry --  Great Britain --  Early works to 1800.</term>
+               <term>Woolen and worsted manufacture --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:174316:1" rendition="simple:additions"/>
+            <pb facs="tcp:174316:1" rendition="simple:additions"/>
+            <pb facs="tcp:174316:2"/>
+            <pb facs="tcp:174316:2"/>
+            <pb facs="tcp:174316:3"/>
+            <pb facs="tcp:174316:3"/>
+            <pb facs="tcp:174316:4"/>
+            <pb n="1" facs="tcp:174316:4" rendition="simple:additions"/>
+            <head>The Caſe of our <hi>Engliſh</hi> Wool, and the Manu<g ref="char:EOLhyphen"/>facture thereof truly Stated: together with ſome of the Cauſes of the low Price of the One, and decaying Condition of the Other. As alſo the Preſentment of the Grand Jury of the County of <hi>Sommerſet</hi> thereon.</head>
+            <head type="sub">Humbly offered to the High Court of Parliament.</head>
+            <p n="1">1ſt. IT is notorious in Fact, that the Wool of the growth of <hi>England</hi> is the Greateſt and Chiefeſt Staple Commodity of our Kingdom; and which for ſeveral years paſt is fallen above one half in its Price.</p>
+            <p n="2">2d. It is manifeſt that the low price of our <hi>Engliſh</hi> Wool hath occaſion'd a Fall and great Abatement both of the Rents and real Value of Land throughout the Kingdom, of near a Fifth part.</p>
+            <p n="3">3d. It is as abſolutely neceſſary to keep up the Rents and Revenues of the Kingdom, in reference to the Ho<g ref="char:EOLhyphen"/>nour, Strength, and Wealth thereof, as to ſupport the Trade; there being now no way left to raiſe any conſi<g ref="char:EOLhyphen"/>derable Summ of Money for a ſudden and ſpeedy Sup<g ref="char:EOLhyphen"/>ply, but by a Land Tax. It appears therefore to be our Intereſt, to enquire into the Cauſes of the low price of our Wool, and the decaying condition of this Ancient
+<pb n="2" facs="tcp:174316:5"/>Staple Commodity and Manufacture of our Kingdom.</p>
+            <p>And they may be for the preſent conſidered under theſe Two Heads;</p>
+            <p n="1">1ſt. The great and vaſt quantities of <hi>Spaniſh</hi> and o<g ref="char:EOLhyphen"/>ther Wool brought into this Kingdom yearly, without paying any Duty or Cuſtom for the ſame, and here ſold at very low Rates; and the Cloth made thereof being for the moſt part conſumed by the Subjects of this Kingdom, muſt of neceſſity leſſen the Manufacture thereof, and ſo by conſequence beat down the price of our <hi>Engliſh</hi> Wool.</p>
+            <p n="2">2d. The great Abuſes put upon our Clothiers, in the ſale of their Cloth at <hi>Blackwell-Hall</hi> in <hi>London,</hi> by a com<g ref="char:EOLhyphen"/>pany of Men ſprung up there within theſe few years, cal<g ref="char:EOLhyphen"/>led Factors, and who at this day have the ſole manage<g ref="char:EOLhyphen"/>ment and command of the Cloth-Trade in their own Hands, and can diſpoſe of it, and of any Man's particular Cloth and Stock as they pleaſe themſelves, they having the Clothier, Draper and Merchant at their own beck, and who are now become the great Merchants for the <hi>Spaniſh</hi> Wool, <hi>&amp;c.</hi> of whom the poor Clothier is forc'd to buy, the Factor having his Stock both of Cloth and Money in his own hands.</p>
+            <p>Theſe are two of the Chiefeſt cauſes of the decay of this Trade, and the Low price of our <hi>Engliſh</hi> Wool at this time, both which are humbly offer'd for conſidera<g ref="char:EOLhyphen"/>tion, with ſome means for Redreſs, when it ſhall pleaſe this Honourable Houſe to appoint the time.</p>
+            <closer>
+               <signed>By <hi>Geo. Clark.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="text">
+            <pb n="3" facs="tcp:174316:5"/>
+            <head>Somerſet. <hi>At the General Quarter Seſſions of the Peace held at</hi> Brewton, <hi>in and for the County aforeſaid, on the Thirteenth day of</hi> January, <hi>in the Thirty Sixth Year of the Reign of our Soveraign Lord</hi> Charles <hi>the Second, by the Grace of God of</hi> England, Scotland, France, <hi>and</hi> Ireland, <hi>King,</hi> &amp;c. <hi>The Preſentment of the</hi> Grand Jury <hi>there was as followeth;</hi> viz.</head>
+            <p>HEARING the daily, ſad and lamen<g ref="char:EOLhyphen"/>table Complaint of the greateſt part of the Clothiers of this County, con<g ref="char:EOLhyphen"/>cerning the great Decay of their Trade, whereby many of them within few years laſt paſt have been ruin'd and undone; and finding by ſad experience the great fall that is happened of late on the price of <hi>Engliſh</hi> Wool, that Commodity now yield<g ref="char:EOLhyphen"/>ing but little more than the one half the Value of what it was wont to be ſold for
+<pb n="4" facs="tcp:174316:6"/>at the beginning of the late unhappy Re<g ref="char:EOLhyphen"/>bellion in this Kingdom; And having ſe<g ref="char:EOLhyphen"/>riouſly conſidered theſe things, do hum<g ref="char:EOLhyphen"/>bly conceive the Cauſes of theſe great E<g ref="char:EOLhyphen"/>vils to be the Importation of <hi>Spaniſh</hi> and other Foreign Wools, without paying a<g ref="char:EOLhyphen"/>ny Cuſtom or Impoſt for the ſame; And the great Abuſes that have been put upon the Clothiers at the Principal Mart for Cloth in this Kingdom, by a ſort of Peo<g ref="char:EOLhyphen"/>ple called Factors; Men firſt ſet up in the late Times of Diſtraction, and increaſing ever ſince in Number and Power, till now at length they have gotten the ſole Com<g ref="char:EOLhyphen"/>mand and Sale of moſt mens Cloth brought thither to be ſold; And have thereby advanc'd themſelves from little or nothing to be Men of great Eſtates, and as much impoveriſhed their Maſters, who ſadly complain of theſe Abuſes, and are left without proſpect of a Remedy: The Conſideration of which Miſchiefs grow<g ref="char:EOLhyphen"/>ing more and more upon us, and if not
+<pb n="5" facs="tcp:174316:6"/>timely prevented, being likely in the end to prove the Ruine of this ancient Staple Commodity and Manufacture of our Kingdom, hath cauſed us at this time to make this following Preſentment.</p>
+            <p>Firſt, That the Wool of this County in particular, as well as of the whole King<g ref="char:EOLhyphen"/>dom in general, is the greateſt Staple we have; And that which adds more to the Rents and Improvement of the Real Va<g ref="char:EOLhyphen"/>lue of the Lands and Revenues thereof, than any one Commodity whatſoever; and that it is as much our Intereſt (if not more) to improve the Rents and Reve<g ref="char:EOLhyphen"/>nues of the Lands and Eſtates of this Kingdom, as to Maintain the Trade, with<g ref="char:EOLhyphen"/>out which Improvement we ſhall in no caſe be able to raiſe any conſiderable Sum of Money by a Land-Tax, if any ſudden or extraordinary occaſion ſhould require it.</p>
+            <p>We Preſent therefore, That the Impor<g ref="char:EOLhyphen"/>tation of <hi>Spaniſh,</hi> and other Foreign
+<pb n="6" facs="tcp:174316:7"/>Wools, without paying any Duty or Cuſtom for the ſame, is a very great pre<g ref="char:EOLhyphen"/>judice to the price of <hi>Engliſh</hi> Wool; and ſo conſequently contributes much to the Abatements of the Rents and Profits iſ<g ref="char:EOLhyphen"/>ſuing from Lands.</p>
+            <p>We Preſent, That the making of Wool<g ref="char:EOLhyphen"/>len Cloth is the greateſt Manufacture of this Kingdom, and that wherein many thouſands of poor People are employed and ſet to work, and thereby Relieved and Maintained; and that ſince the time that the Art of Clothing was firſt known amongſt us, it has continued free, until the beginning of the late Rebellion, there ſprung up a ſort of People, who under the name of Factors of <hi>Blackwell-Hall,</hi> have gotten into their Power the Management and Diſpoſal of moſt of the Cloth that is ſold there: And beſides, are grown to be the greateſt Merchants of Oyl and Dying ſtuffs, but chiefly of <hi>Spaniſh</hi> Wool; all goods belonging to the Clothing Trade,
+<pb n="7" facs="tcp:174316:7"/>of whom the Clothier is forced to buy, the Factor having his Stock both of Cloth and Money in his own hands; and there<g ref="char:EOLhyphen"/>fore We preſent, that theſe Factors of <hi>Blackwell-Hall</hi> are a Publick Nuſance and Prejudice to the Clothing Trade; and to have been the Ruine of many poor Clo<g ref="char:EOLhyphen"/>thiers, and the Cauſes of many other Miſ<g ref="char:EOLhyphen"/>chiefs and Inconveniences that now lye heavy upon us.</p>
+            <p>
+               <hi>Item,</hi> We farther preſent, that this Ho<g ref="char:EOLhyphen"/>nourable Bench will be pleaſed to implore the Royal Power and Prerogative of his Sacred Majeſty for convenient Remedies to theſe great Abuſes; and that this Pre<g ref="char:EOLhyphen"/>ſentment may be with all Submiſſion pre<g ref="char:EOLhyphen"/>ſented to his Majeſty as the Grievance and Complaint of the whole County.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>Thomas Ludwwell,</hi>
+                     </item>
+                     <item>
+                        <hi>Joſeph Gappy,</hi>
+                     </item>
+                     <item>
+                        <hi>Barnard Ruſſ,</hi>
+                     </item>
+                     <item>
+                        <hi>William Ridcut,</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Pitman,</hi>
+                     </item>
+                     <item>
+                        <hi>John Bradny,</hi>
+                     </item>
+                     <item>
+                        <hi>John Mulford</hi> Sen.</item>
+                     <item>
+                        <hi>Thomas Gapper</hi> Jun.</item>
+                     <item>
+                        <hi>Thomas Field,</hi>
+                     </item>
+                     <item>
+                        <hi>William Lewis,</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Biging,</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Harvye,</hi>
+                     </item>
+                     <item>
+                        <hi>John Mabz,</hi>
+                     </item>
+                     <item>
+                        <hi>Wor. Brice,</hi>
+                     </item>
+                     <item>
+                        <hi>Henry Strode,</hi>
+                     </item>
+                     <item>
+                        <hi>Gabriel Iveleife,</hi>
+                     </item>
+                     <item>
+                        <hi>Robert King.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="text">
+            <pb n="8" facs="tcp:174316:8"/>
+            <head>Ver<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>op' Ex per Ph. Bennet, Cl. Pac.</head>
+            <p>This is a true Copy of the Grand Juries Preſentment, which we agree to, and de<g ref="char:EOLhyphen"/>ſire it may be preſented to his Majeſty in Council by Mr <hi>Clark.</hi>
+            </p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>Weymouth,</hi>
+                     </item>
+                     <item>
+                        <hi>Fitzharding.</hi>
+                     </item>
+                     <item>
+                        <hi>Fra. Powlett.</hi>
+                     </item>
+                     <item>
+                        <hi>E. Phelipps.</hi>
+                     </item>
+                     <item>
+                        <hi>John Hunt.</hi>
+                     </item>
+                     <item>
+                        <hi>Ed. Berkely.</hi>
+                     </item>
+                     <item>
+                        <hi>Tho. Wyn<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>am.</hi>
+                     </item>
+                     <item>
+                        <hi>Fra. Warre.</hi>
+                     </item>
+                     <item>
+                        <hi>Wil. Baſſet.</hi>
+                     </item>
+                     <item>
+                        <hi>Geo Clarke.</hi>
+                     </item>
+                     <item>
+                        <hi>Jo. Harington.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+            <postscript>
+               <p>
+                  <hi>This Preſentment ſhould have been delivered to his Majeſty King</hi> Charles <hi>the Second, but by his ſudden Death it was prevented; And now comes more proper<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> to be Conſidered of and Redreſs'd in Parliament; And at this time will enable the whole Kingdom in general to pay the preſent Taxes with greater Eaſe and Satis<g ref="char:EOLhyphen"/>faction (the Reaſons being conſidered) than by any other way or means that can be offered.</hi>
+               </p>
+            </postscript>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:174316:8"/>
+            <pb facs="tcp:174316:9"/>
+            <pb facs="tcp:174316:9"/>
+            <pb facs="tcp:174316:10"/>
+            <pb facs="tcp:174316:10"/>
+            <pb facs="tcp:174316:11"/>
+            <pb facs="tcp:174316:11"/>
+         </div>
+      </body>
+   </text>
+</TEI>
